@@ -1,0 +1,19 @@
+artifact_path: iris_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.5.0
+model_uuid: 2d5b4b342ce3419c8e43b6db9fc40b5a
+run_id: 2c6cd00a5c5b4a538207e46e07a9ba18
+utc_time_created: '2023-08-01 10:03:47.452680'

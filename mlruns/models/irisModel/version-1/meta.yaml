@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1690886678863
+current_stage: None
+description: ''
+last_updated_timestamp: 1690886678863
+name: irisModel
+run_id: 2c6cd00a5c5b4a538207e46e07a9ba18
+run_link: ''
+source: file:///C:/Users/AdityaManiTripathi/irispipeline/mlruns/0/2c6cd00a5c5b4a538207e46e07a9ba18/artifacts/iris_model
+status: READY
+status_message: null
+user_id: null
+version: 1
